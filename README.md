@@ -1,7 +1,7 @@
 ## Programer MetalHead
 
-👋 I'm information tecnology engineering student and passionate developer focused building hardy solutions for any problems. 
-🧠 I'm beniger web developer interesting for backend development and a littel bit of frontend develompment.
+👋 I'm information tecnology engineering student and passionate developer focused building hardy solutions for any problems.<br>
+🧠 I'm beniger web developer interesting for backend development and a littel bit of frontend develompment.<br>
 🚀 I'm current learing tecnologys and techniques for make me better developer.
 
 <!-- 
