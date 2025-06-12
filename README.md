@@ -1,6 +1,10 @@
-## Programer MetalHead 👋
+## Programer MetalHead
 
-<!--
+👋 I'm information tecnology engineering student and passionate developer focused building hardy solutions for any problems
+🧠 I'm beniger web developer interesting for backend development and a littel bit of frontend develompment
+🚀 I'm current learing tecnologys and techniques for make me better developer 
+
+<!-- 
 **ProgramerMetalhead/ProgramerMetalHead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
